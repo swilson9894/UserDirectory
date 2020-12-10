@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import DataArea from "./DataArea";
+import DataArea from "./InfoArea";
 import "../styles/Main.css";
 
 

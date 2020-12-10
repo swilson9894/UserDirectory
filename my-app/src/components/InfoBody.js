@@ -1,7 +1,7 @@
 import React from "react";
-import "../styles/DataBody.css";
+import "../styles/InfoBody.css";
 
-function DataBody({ users }) {
+function InfoBody({ users }) {
 
     function formatDate(date) {
         const dateArray = date.split("-");
@@ -53,4 +53,4 @@ function DataBody({ users }) {
 
 }
 
-export default DataBody;
+export default InfoBody;

@@ -1,15 +1,19 @@
 .col {
     color: rgb(250, 10, 10);
+    box-sizing: border-box;
 }
 
 .pointer {
     color: rgb(3, 2, 2);
+    box-sizing: border-box;
 }
 
 .table {
     color: rgb(252, 13, 13);
+    box-sizing: border-box;
 }
 
 .datatable {
     color: rgb(250, 6, 6);
+    box-sizing: border-box;
 }

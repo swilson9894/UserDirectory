@@ -1,7 +1,7 @@
 
 
 import React from "react";
-import DataBody from "./DataBody";
+import DataBody from "./InfoBody";
 import "../styles/DataTable.css";
 
 

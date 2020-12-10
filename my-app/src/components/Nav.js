@@ -1,5 +1,5 @@
 import React from "react";
-import SearchBox from "./SearchBox.js";
+import SearchBox from "./InfoBox.js";
 import "../styles/Nav.css";
 
 function Nav({ handleSearchChange }) {
